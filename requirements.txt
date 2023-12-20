@@ -1,0 +1,16 @@
+--index https://pypi.mirrors.ustc.edu.cn/simple/
+opencv-python
+PyQt5
+PyQt5-tools
+Pillow
+pywin32
+keyboard
+pyautogui
+pyyaml
+psutil
+win10toast
+comtypes
+pycaw
+openpyxl
+pyuac
+colorama

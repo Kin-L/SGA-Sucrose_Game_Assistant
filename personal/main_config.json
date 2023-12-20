@@ -1,0 +1,131 @@
+{
+ "work_path": "D:\\Kin-project\\python-SGA",
+ "lock": true,
+ "config": "环行旅舍",
+ "run": {
+  "genshin": [
+   0,
+   "D:\\Program Files\\Genshin Impact\\Genshin Impact Game\\YuanShen.exe"
+  ],
+  "kleins": [
+   0,
+   "D:\\Program Files (x86)\\hxls\\环行旅舍.exe"
+  ],
+  "maa": "D:\\Program Files (Green)\\MAA-v4.20.0-win-x64\\MAA.exe",
+  "m7a": "D:\\Kin-project\\March7thAssistant_v1.5.1\\March7th Assistant.exe"
+ },
+ "update": false,
+ "timer": {
+  "item_num": 3,
+  "execute": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "time": [
+   "07:05:00",
+   "11:07:00",
+   "11:07:00",
+   "11:07:00",
+   "11:07:00",
+   "11:07:00",
+   "11:07:00",
+   "11:07:00",
+   "11:08:00",
+   "11:08:00"
+  ],
+  "text": [
+   "<未选择>",
+   "<未选择>",
+   "<未选择>",
+   "<未选择>",
+   "<未选择>",
+   "<未选择>",
+   "<未选择>",
+   "<未选择>",
+   "<未选择>",
+   "<未选择>"
+  ],
+  "awake": [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ]
+ },
+ "current": {
+  "模块": 1,
+  "运行": [
+   false,
+   false,
+   1,
+   false
+  ],
+  "功能": [
+   true,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  "作战": [
+   true,
+   0
+  ],
+  "采购": [
+   false,
+   [
+    3,
+    0,
+    0
+   ],
+   [
+    5,
+    0,
+    0
+   ],
+   [
+    6,
+    0,
+    1
+   ],
+   [
+    7,
+    0,
+    0
+   ],
+   [
+    8,
+    0,
+    0
+   ],
+   [
+    9,
+    0,
+    0
+   ]
+  ],
+  "回顾": 35.0,
+  "访募": [
+   false,
+   7
+  ]
+ }
+}
